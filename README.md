@@ -6,7 +6,7 @@
 
 ### 1 - Match emotes with a partner of your choosing
 - `erp partner <name>`  |  Example: `erp partner zari`
-- - This will cause an inspect command and will set the partner until you choose another one, or do `erp partner` to clear it.
+  - This will cause an inspect command and will set the partner until you choose another one, or do `erp partner` to clear it.
 
 ### 2 - Force emote on demand
 - `erp emote <id>`  |  Example: `erp emote 14`
