@@ -1,6 +1,6 @@
 # ERP
-- Let's you configure a partner whose emotes you will copy instantly. This lets you sync dances easily.
-- Let's you force use emotes like '14', a special money beg emote
+- Lets you configure a partner whose emotes you will copy instantly. This lets you sync dances easily.
+- Lets you force use emotes like '14', a special money beg emote
 
 ## Usage
 
